@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rida-collab&label=Profile%20views&color=0e75b6&style=flat" alt="rida-collab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rida-collab" alt="rida-collab" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Projects.**
-
-- 🌱 I’m currently learning **Machine Learning.**
-
-- 👯 I’m looking to collaborate on **Flutter and web projects.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ridda-zainab-819530233/](https://www.linkedin.com/in/ridda-zainab-819530233/)
-
-- 📫 How to reach me **riddaazainab512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
